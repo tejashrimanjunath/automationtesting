@@ -38,7 +38,7 @@ for(let j=0; j<5; j++){
     console.log(j)
 }
 
-//for loops with if conditions
+//for loops with if conditions in develop branch
 let n=0
 console.log("for loop with if conditions values are")
 for(let k=1;k<100;k++){
