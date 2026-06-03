@@ -1,5 +1,6 @@
 const val = true
 
+//----Understanding Loops and Conditional Statements in JavaScript----//
 //If-else statement
 console.log("if-else values is")
 if(!val){
