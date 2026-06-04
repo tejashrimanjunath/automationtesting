@@ -52,14 +52,7 @@ if(k%2 ==0 && k%5==0){
 }
 }
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 let a = [1,2,3,4,5,6,7,8,9]
-=======
 let a = [1,2,3]
 let b = [4,5,6]
->>>>>>> Stashed changes
-=======
-let a = [1,2,3]
-let b = [4,5,6]
->>>>>>> a926ac1b6f1312308f8f7b4c45d2d8c6f806e782
+let c = a.concat(b)
